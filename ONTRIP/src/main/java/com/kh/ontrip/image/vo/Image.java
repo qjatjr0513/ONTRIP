@@ -1,3 +1,4 @@
+
 package com.kh.ontrip.image.vo;
 
 import java.sql.Date;
@@ -21,5 +22,6 @@ public class Image {
     private String localCode;
     private String categoryCode;
     private String dareaCode; 
+
 
 }

@@ -1,3 +1,4 @@
+
 package com.kh.ontrip.detailArea.vo;
 
 import lombok.Builder;
@@ -12,4 +13,5 @@ public class DetailArea {
     private String dAreaName;
     private String localCode; 
 	
+
 }

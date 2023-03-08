@@ -1,3 +1,4 @@
+
 package com.kh.ontrip.location.vo;
 
 import lombok.Builder;

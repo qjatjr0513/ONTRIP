@@ -1,3 +1,4 @@
+
 package com.kh.ontrip.hash.vo;
 
 import lombok.Builder;
