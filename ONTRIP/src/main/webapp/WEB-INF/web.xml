@@ -57,7 +57,7 @@
 	 <filter>
 	   <display-name>InitFilter</display-name>
 	   <filter-name>InitFilter</filter-name>
-	   <filter-class>com.kh.icu.common.filter.InitFilter</filter-class>
+	   <filter-class>com.kh.ontrip.common.filter.InitFilter</filter-class>
 	 </filter>
 	 <filter-mapping>
 	   <filter-name>InitFilter</filter-name>
