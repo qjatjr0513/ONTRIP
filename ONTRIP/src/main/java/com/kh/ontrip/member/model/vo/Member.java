@@ -17,5 +17,4 @@ public class Member {
 	private String status;
 	private Date enrollDate;
 	private Date modifyDate;
-
 }
