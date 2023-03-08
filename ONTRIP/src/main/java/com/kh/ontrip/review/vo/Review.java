@@ -12,10 +12,10 @@ public class Review {
 	private String memberId;
 	private String memberName;
 	private int memberNo;
-	private java.sql.Date revDate;
+	private Date revDate;
 	private String revText;
 	private String status;
-	private java.sql.Date revChangeDate;
+	private Date revChangeDate;
 	private String categoryName;
 	private String placeName;
 	private int reviewStar;
